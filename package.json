@@ -1,0 +1,21 @@
+{
+  "name": "restaurant-page",
+  "version": "1.0.0",
+  "description": "Restaurant page. Made using HTML, CSS and JavaScript. Utilizing tools such as npm, webpack etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^5.93.0",
+    "webpack-cli": "^5.1.4"
+  },
+  "devDependencies": {
+    "copy-webpack-plugin": "^12.0.2",
+    "file-loader": "^6.2.0",
+    "html-webpack-plugin": "^5.6.0"
+  }
+}
